@@ -1,0 +1,2 @@
+In order to use PowerBI dashboard, install Power BI on your windows machine 
+and then link: click_data.csv to the data visualization dashboard 
